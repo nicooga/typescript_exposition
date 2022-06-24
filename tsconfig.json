@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "ES2020",
+    "target": "ES2020",
+    "outDir": "./dist/",
+    "strict": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/06-escape-hatches/02-non-null-assertion.tss"
+  ]
+}
